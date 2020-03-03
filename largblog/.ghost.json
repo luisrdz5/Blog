@@ -1,0 +1,12 @@
+{
+  "development": {
+    "apiUrl": "https://largblog.herokuapp.com",
+    "contentApiKey": "492f8b585ea77c92d27de30572",
+    "version": "v2"
+  },
+  "production": {
+    "apiUrl": "https://largblog.herokuapp.com",
+    "contentApiKey": "492f8b585ea77c92d27de30572",
+    "version": "v2"
+  }
+}
